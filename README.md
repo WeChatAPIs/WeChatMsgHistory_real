@@ -27,7 +27,7 @@
 ```
 curl --location --request POST "http://127.0.0.1:18000/historyMsgData" ^
 --header "Content-Type: application/json" ^
---data-raw "{\"userName\":\"xxxxx@chatroom\",\"accessKey\":\"kawika-git/wechatSDK\"}"
+--data-raw "{\"userName\":\"xxxxx@chatroom\",\"accessKey\":\"WeChatAPIs/wechatSDK\"}"
 ```
 ## 依赖 📦
 

@@ -10,7 +10,7 @@ from server import ChatHistory
 log = logging.getLogger(__name__)
 
 app = FastAPI()
-accessKey= "kawika-git/wechatSDK"
+accessKey= "WeChatAPIs/wechatSDK"
 
 @app.get('/')
 def index():
