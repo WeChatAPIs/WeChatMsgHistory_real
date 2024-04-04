@@ -41,3 +41,5 @@ curl --location --request POST "http://127.0.0.1:18000/historyMsgData" ^
 ## 效果展示 🖼️
 
 ![img.png](img%2Fimg.png)
+![img.png](img%2Fimg_2.png)
+![img.png](img%2Fimg_1.png)
