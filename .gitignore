@@ -1,0 +1,13 @@
+/.idea/
+/*/*.log*
+*.iml
+env_wechat.json
+Test*
+*.db
+*.log
+*/log/*
+/gen_image/*
+venv/*
+.idea/*
+.env
+/*/.startTime*.txt
