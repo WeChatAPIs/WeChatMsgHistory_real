@@ -91,6 +91,7 @@ def getHistory(userName, startFileName):
         if Type == 49 and SubType == 63:
             StrContent = f"【视频号直播或直播回放】：视频号名称：{CompressContent['appmsg']['finderLive']['nickname']},描述：{CompressContent['appmsg']['finderLive']['desc']}"
         # 群公告
+
         if Type == 49 and SubType == 87:
             StrContent = "【群公告】：暂未解析"
         # 视频号直播或直播回放等
