@@ -20,9 +20,6 @@ Real-time Chat项目为开发者和研究者提供一种深入查看聊天内容
 
 ## 安装 🔧
 
-### 微信启动
-
-- [API启动器来源](https://wechatsdk.com)
 
 ### 启动程序
 
@@ -38,9 +35,6 @@ curl --location --request POST "http://127.0.0.1:18000/historyMsgData" ^
 --header "Content-Type: application/json" ^
 --data-raw "{\"userName\":\"xxxxx@chatroom\",\"accessKey\":\"WeChatAPIs/wechatSDK\"}"
 ```
-## 依赖 📦
-
-项目依赖于 [wechatAPI](https://wechatsdk.com)。请确保安装所有必要的依赖。
 
 
 ## 如何贡献 🤝
